@@ -17,11 +17,11 @@ Spatial Transformers are mainly composed of three parts - the localisation netwo
 
 
 ## Results
-Grad-CAM output results for four different classes in ImageNet. 
+Recovered distorted MNIST data through Spatial Transformer Network
 <p align="center">
-    <img src="Results/Result0.jpg" height="500px">
-    <img src="Results/Result1.jpg" height="500px">
-    <img src="Results/Result2.jpg" height="500px">
+    <img src="Result/result0.jpg" height="500px">
+    <img src="Result/result1.jpg" height="500px">
+    <img src="Result/result2.jpg" height="500px">
 </p>
 
 ## Discussion
