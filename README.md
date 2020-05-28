@@ -11,10 +11,9 @@ One limitation of CNN is its inability to be spatially invariant to the position
 As shown in the above figure, the spatial transformer successfully captures only the particular pixels to be used in classification, and transforms in a way that enhances the classification.
 ### 2. Spatial Transformers
 
-<img src="model.png" height="300"/>
+<img src="STN_1.png" height="300"/>
 
 Spatial Transformers are mainly composed of three parts - the localisation network, grid generator, and the sampler. The below figure shows the basic outline of the transformer.
-
 
 
 ## Results
@@ -23,7 +22,6 @@ Grad-CAM output results for four different classes in ImageNet.
     <img src="Results/Result0.jpg" height="500px">
     <img src="Results/Result1.jpg" height="500px">
     <img src="Results/Result2.jpg" height="500px">
-    <img src="Results/Result3.jpg" height="500px">
 </p>
 
 ## Discussion
